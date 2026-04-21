@@ -1,0 +1,43 @@
+What is the primary function of the CourtReserve (CR) software?,It provides court reservation and club management tools for facilities.
+"In the context of training, what is a 'Sandbox' or 'Test Account'?",A free trial organization used by employees to practice features and build a playground for demos.
+What internal backend tool allows the team to access any customer's account for support?,SuperAdmin
+"Which tool serves as the live chat, ticketing system, and phone system for customer support?",Intercom
+What is the name of the AI chatbot within Intercom that handles tier-1 questions?,FIN (also known as Rally)
+"Which tool is used as the CRM to track leads, pipeline, and call notes?",Close
+What is the purpose of the 'Mastering the Basics' (MTB) webinar?,It is a live group training required for new customers before they move to deeper onboarding.
+How long is a standard Advanced Setup Call (ASC)?,60 minutes
+Which team is responsible for guiding paying customers through their first 30 days?,The Onboarding (ONB) team
+What is the role of an Account Executive (AE) at CourtReserve?,"They handle the sales pipeline, run PO calls, and nurture leads until they subscribe."
+Which third-party rating system is integrated with CourtReserve specifically for pickleball?,DUPR (Dynamic Universal Pickleball Rating)
+What does the 'HOO' setting define in the platform?,Hours of Operation (when courts are open for booking)
+What is 'SafeSave' within the CourtReserve ecosystem?,The default integrated payment processor.
+Which tool do customers use to schedule calls with the CourtReserve team?,Calendly
+What is the purpose of using 'Fathom' during Zoom calls?,It is used for call recording and AI-generated note-taking.
+Which platform is used for email delivery and checked when customers report missing emails?,Sendgrid
+What is a 'Dev Task'?,A request to the development team for actions that cannot be performed through the user interface.
+What defines the 'Enterprise' plan tier?,It is the highest tier for clubs managing multiple locations under a single account.
+Where should a Customer Success Advocate route an Intercom chat if the user is a prospect?,To the Sales/AE team via the #hot-leads Slack channel.
+What is the mandatory Slack etiquette when starting and ending a shift?,Posting 'Good morning' at the start and 'Goodbye' when leaving.
+What must be included when asking for ticket help in the #cs-questions Slack channel?,The Intercom ticket URL
+What core functionality do 'Memberships' control in CourtReserve?,"Player access, including what they can book and what they are charged."
+What are the three different permission levels/types for 'System Users'?,"Admin, Sub-Admin, and Event Coordinator."
+What is the difference between a standard Scheduler and a Custom Scheduler?,"Custom Schedulers group specific courts into separate views (e.g., only tennis courts)."
+How do 'Events' differ from standard 'Reservations'?,"Events are structured programs with registration, waitlists, and capacity limits."
+What is the 'Member Portal'?,"The customer-facing website where members sign up, book courts, and view events."
+What are the three required fields for a Member List Import?,"First Name, Last Name, and Username."
+"In a Member List Import, how should Individual and Family members be organized?",They must be placed on separate sheets.
+What is the default integrated payment processor for CourtReserve?,SafeSave
+What is the function of 'Packages' in CourtReserve?,"They act as virtual punch cards for court time, lessons, or events."
+"In the Audit Log, what can an administrator track?","Changes made by specific users within a specific date range, such as reservation creations."
+What are 'Widgets' in the context of CourtReserve?,Embeddable code snippets that allow visitors to sign up or book courts on a club's external website.
+What is the monthly cost for the 'Seasonal' pricing option?,$49 per month (admin access only).
+What is the cost per location for the Enterprise Plan?,$549 per month.
+What is the standard response SLA for the 'Launch' plan?,24 hours
+What is the premium response SLA for the 'Momentum' and 'Enterprise' plans?,4 hours
+How much is the one-time fee for a Branded Mobile App?,$499
+What is the difference between Static and Dynamic Member Groups?,"Static groups require manual member addition, while Dynamic groups auto-add members based on rules."
+Which Slack channel is used to monitor critical system alerts constantly?,#cs-alerts
+What are 'Prime Times' in the booking settings?,Configured peak hours that can have different costs or restrictions.
+"In the Close CRM, what does the 'Won' status indicate for a lead?",The lead has subscribed and is handed off to Onboarding.
+What is the purpose of the 'Check-In Kiosk' add-on?,It provides a dedicated view for members to check into the facility upon arrival.
+Which tool is used for recording short video replies or tutorials for customers?,Loom
